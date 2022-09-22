@@ -1,0 +1,55 @@
+.fondo{
+  background-color: rgb(0, 0, 0);
+  width: 100%;
+  height: 943px;
+  position: static;
+}
+.encabezado{
+  width: 30%;
+  float: left;
+  height: 100px;
+  background-color: rgb(49, 233, 240);
+  margin: 10px;
+}
+.menu{
+  width: 65%;
+  height: 100px;
+  background-color: rgb(236, 124, 59);
+  margin: 10px;
+  float: left;
+}
+.contenido{
+  width: 97%;
+  height: 450px;
+  background-color: rgb(212, 68, 1);
+  float: left;
+  margin: 10px;
+}
+.pie{
+  width: 31%;
+  height: 180px;
+  background-color: rgb(234, 236, 78);
+  float: left;
+  margin: 10px;
+}
+.medio{
+  width: 31%;
+  height: 180px;
+  background-color: rgb(234, 236, 78);
+  float: left;
+  margin: 10px;
+}
+.medio1{
+  width: 31%;
+  height: 180px;
+  background-color: rgb(234, 236, 78);
+  float: left;
+  margin: 10px;
+}
+.piso{
+  width: 97%;
+  height: 130px;
+  background-color: rgb(230, 132, 230);
+  float: left;
+  margin: 10px;
+}
